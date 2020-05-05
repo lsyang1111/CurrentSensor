@@ -9,6 +9,10 @@
 1. UNO
 2. bread board
 3. jumper wire
-4. resistor(? ohm)
+4. resistor(1 ohm)
 5. Four pin FAN cable(暫用2.54mm杜邦線)
 6. Pins
+
+REF:
+SparkFun Low Current Sensor Breakout Board - ACS723
+https://github.com/sparkfun/Current_Sensor_Breakout-ACS723-Low_Current
