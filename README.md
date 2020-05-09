@@ -1,9 +1,9 @@
 # CurrentSensor
 ## Schedule
 1. Planning and buy material (05/05)
-2. Breadboard Prototype (05/08)
-3. Prototype with ACS712 (05/09)
-4. Welding Prototype (05/10)
+2. Breadboard Prototype (05/10)
+3. Prototype with ACS712 (05/10)
+4. Welding Prototype (05/11)
 
 ## Breadboard Material
 1. UNO
