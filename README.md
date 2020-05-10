@@ -2,8 +2,8 @@
 ## Schedule
 1. Planning and buy material (05/05)
 2. Breadboard Prototype (05/10)
-3. Prototype with ACS712 (05/10)
-4. Welding Prototype (05/11)
+3. Prototype with ACS712 (05/11)
+4. Welding Prototype (05/12)
 
 ## Breadboard Material
 1. UNO
