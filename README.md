@@ -12,9 +12,13 @@
 3. jumper wire
 
 REF:
-
+1. current sensing
 SparkFun Low Current Sensor Breakout Board - ACS723
 https://github.com/sparkfun/Current_Sensor_Breakout-ACS723-Low_Current
 
 Arduino library for ACS712 current sensor
 https://github.com/rkoptev/ACS712-arduino
+
+2. GUI
+GUIslice library
+https://github.com/ImpulseAdventure/GUIslice
