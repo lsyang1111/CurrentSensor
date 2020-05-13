@@ -22,6 +22,7 @@ const int analogInPin = A0;
 // Number of samples to average the reading over
 // Change this to make the reading smoother... but beware of buffer overflows!
 const int avgSamples = 10;
+const int currentRatio = 0.01;
 
 int sensorValue = 0;
 
@@ -70,8 +71,8 @@ void loop() {
    * voltage. This allows the sensor to output positive and negative currents!
    *************************************************************************************/
 
-  Serial.print(voltage);
-  //Serial.print("mV");
+  Serial.print((voltage-2500)*currentRatio);
+  //Serial.print("mA");
 
   /*************************************************************************************
    * Step 2.)
