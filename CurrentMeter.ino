@@ -71,7 +71,7 @@ void loop() {
    * voltage. This allows the sensor to output positive and negative currents!
    *************************************************************************************/
 
-  Serial.print((voltage-2500)*currentRatio);
+  //Serial.print((voltage);
   //Serial.print("mA");
 
   /*************************************************************************************
@@ -96,8 +96,8 @@ void loop() {
    * The output is in mA
    *************************************************************************************/
 
-  //Serial.print(current);
-  //Serial.print("mA");
+  Serial.print(current);
+  Serial.print("mA");
 
 
   // -- DO NOT UNCOMMENT BELOW THIS LINE --
