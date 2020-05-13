@@ -21,13 +21,13 @@ const int analogInPin = A0;
 
 // Number of samples to average the reading over
 // Change this to make the reading smoother... but beware of buffer overflows!
-const int avgSamples = 10;
+const int avgSamples = 20;
 const int currentRatio = 0.01;
 
 int sensorValue = 0;
 
-float sensitivity = 100.0 / 500.0; //100mA per 500mV = 0.2
-float Vref = 2500; // Output voltage with no current: ~ 2500mV or 2.5V
+float sensitivity = 2800.0 / 500.0; //100mA per 500mV = 0.2
+float Vref = 2475; // Output voltage with no current: ~ 2500mV or 2.5V
 
 void setup() {
   // initialize serial communications at 9600 bps:
