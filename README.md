@@ -6,10 +6,22 @@
 4. Prototype with resistor (05/12)
 4. Welding Prototype (05/14)
 
-## Breadboard Material
+## Material
 1. UNO
-2. bread board
-3. jumper wire
+2. ACS712
+3. bread board
+4. jumper wire
+
+## Calibration Process
+This process will modify Vref and sensitivity.
+1. While the motor is disconnected, the output should be zero. So, modify the Vref so the output can be zero.
+2. Serial a current meter, modify sensitivity to make output equal to current meter.
+
+REF:
+Using Resistors for Current Sensing: It’s More Than Just I = V/R
+https://www.powerelectronics.com/technologies/power-management/article/21864130/using-resistors-for-current-sensing-its-more-than-just-i-vr
+
+
 
 REF:
 1. current sensing
