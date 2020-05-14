@@ -21,9 +21,13 @@ REF:
 Using Resistors for Current Sensing: It’s More Than Just I = V/R
 https://www.powerelectronics.com/technologies/power-management/article/21864130/using-resistors-for-current-sensing-its-more-than-just-i-vr
 
+## Current sensor by using ACS712
+Serial ACS712 module and current meter between Motor side and ground side.
+Follow calibration process. Then, it is able to get proximate current value. 
+
 ## Current sensor by using Resistor
 Serial 1 ohm 1/16 watt resistor and current meter between Motor side and ground side.
-Follow calibration process, which mention above, is able to get proximate current value. 
+Follow calibration process. Then, it is able to get proximate current value. 
 
 
 REF:
