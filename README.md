@@ -29,6 +29,9 @@ Follow calibration process. Then, it is able to get proximate current value.
 Serial 1 ohm 1/16 watt resistor and current meter between Motor side and ground side.
 Follow calibration process. Then, it is able to get proximate current value. 
 
+### Problems
+The sensitivity values are not the same while measure 50mA and 90mA target. Still investigate this phenomena.
+
 
 REF:
 1. current sensing
