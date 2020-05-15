@@ -1,16 +1,19 @@
 # CurrentSensor
-## Schedule
+## Prototype Schedule
 1. Planning and buy material (05/05)
 2. Breadboard Prototype (05/10)
 3. Prototype with ACS712 (05/13)
-4. Prototype with resistor (05/15)
 
+## Exp Schedule
+1. Planning exp (05/15)
 
 ## Material
 1. UNO
-2. ACS712
+2. ACS712 and 1 ohm(1/16watt)
 3. bread board
 4. jumper wire
+
+![](https://i.imgur.com/nmkM3XW.png)
 
 ## Calibration Process
 This process will modify Vref and sensitivity.
