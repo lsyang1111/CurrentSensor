@@ -5,7 +5,7 @@
 3. Prototype with ACS712 (05/13)
 
 ## Exp Schedule
-1. Planning exp (05/15)
+1. Planning exp
 
 ## Material
 1. UNO
