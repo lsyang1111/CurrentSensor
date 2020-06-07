@@ -1,8 +1,8 @@
 # CurrentSensor
 ## Prototype Schedule
-1. Planning and buy material (05/05)
-2. Breadboard Prototype (05/10)
-3. Prototype with ACS712 (05/13)
+1. Planning and buy material
+2. Breadboard Prototype
+3. Prototype with ACS712
 
 ## Exp Schedule
 1. Planning exp
